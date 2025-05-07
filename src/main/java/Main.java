@@ -71,6 +71,7 @@ public class Main {
                     }
                 }
             }
+
             if (carCounter == 3) {
                 System.out.println("Все машины добавлены успешно");
                 for (Car car : cars) {
